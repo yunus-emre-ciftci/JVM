@@ -23,5 +23,13 @@ public class Test {
         *
         * */
 
+        /*
+        * Tip uyumsuzuluğu
+        *
+        * int a = "3"; burada String olarak 3 yazıldığından dolayı hata alırız.
+        *
+        * */
+
+
     }
 }
